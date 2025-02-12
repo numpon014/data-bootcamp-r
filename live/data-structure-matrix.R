@@ -1,4 +1,5 @@
 ## matrix is a 2d vector
+## Matrix - collection of elements of the same data type arranged in rows and columns
 1:10
 
 # create a matrix with 2 rows and 5 columns with elements from 1 to 10
