@@ -2,7 +2,7 @@
 library(sqldf)
 library(readr)
 
-school <- read_csv("../data/school.csv")
+school <- read_csv("on-demand/data/school.csv")
 
 sqldf("select * from school;")
 

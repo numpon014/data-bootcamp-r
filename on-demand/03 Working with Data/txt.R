@@ -1,3 +1,3 @@
-student <- read_table("../data/student.txt")
+student <- read_table("on-demand/data/student.txt")
 
 View(student)
