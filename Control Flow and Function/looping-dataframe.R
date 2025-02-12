@@ -21,6 +21,7 @@ for (i in 1:ncol(USArrests)) {
 
 # loop through the columns of the dataframe
 # seq_len() is used to generate a sequence of numbers from 1 to the number of columns in the dataframe
+# for avoids warning The sequence may not behave as expected when the right-hand side is non-positive
 for (i in seq_len(ncol(USArrests))) {
   # get the mean of each column
   name <- colnames(USArrests)[i]
