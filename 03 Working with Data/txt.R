@@ -1,3 +1,3 @@
-student <- read.table("data/student.txt", header = TRUE)
+student <- read_table("data/student.txt")
 
 View(student)
