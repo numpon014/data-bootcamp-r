@@ -50,8 +50,8 @@ df
 # Export dataframe to csv
 write.csv(
   netflix_sub,
-  "netflix_sub.csv",
+  "../../netflix_sub.csv",
   row.names = FALSE
 )
 
-netflix_sub2 <- read.csv("netflix_sub.csv")
+netflix_sub2 <- read.csv("../../netflix_sub.csv")
