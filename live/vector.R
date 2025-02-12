@@ -1,3 +1,7 @@
+# vector - collection of elements of the same data type - most common
+1:10
+1:100
+
 # Update vector
 gpas <- c(toy = 3.41, bew = 3.95, john = 2.58)
 gpas
