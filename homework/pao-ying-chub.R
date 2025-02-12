@@ -38,17 +38,6 @@ pao_ying_chub <- function() {
       cat("You lose!\n")
       results$losses <- results$losses + 1
     }
-
-    cat("Do you want to play again? (yes/no): ")
-    play_again_response <- tolower(readline())
-    if (play_again_response != "yes") {
-      play_again <- FALSE
-      cat("Exiting the game. Thank you for playing!\n")
-      cat("Results:\n")
-      cat("Wins:", results$wins, "\n")
-      cat("Losses:", results$losses, "\n")
-      cat("Ties:", results$ties, "\n")
-    }
   }
 }
 
