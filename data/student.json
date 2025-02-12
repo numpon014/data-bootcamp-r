@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Lisa",
+    "school": "Oxford",
+    "nationality": "Thai",
+    "age": 25
+  },
+  {
+    "id": 2,
+    "name": "Jisoo",
+    "school": "Oxford",
+    "nationality": "Korea",
+    "age": 22
+  },
+  {
+    "id": 3,
+    "name": "Jenny",
+    "school": "MIT",
+    "nationality": "Korea",
+    "age": 24
+  },
+  {
+    "id": 4,
+    "name": "Rose",
+    "school": "MIT",
+    "nationality": "Korea",
+    "age": 28
+  },
+  {
+    "id": 5,
+    "name": "Toy",
+    "school": "Reading",
+    "nationality": "Thai",
+    "age": 29
+  }
+]
