@@ -7,7 +7,7 @@
 print("I'm learning R programming")
 
 # today contents
-# 1. variable
+# 1. variable.R
 # 2. data types
 # 3. data structures
 # 4. function
@@ -22,7 +22,7 @@ result <- x + y
 # sales.y2025 <- 50000
 sales_y2026 <- 40000
 
-## remove variable
+## remove variable.R
 rm(sales.y2025)
 rm(x)
 
